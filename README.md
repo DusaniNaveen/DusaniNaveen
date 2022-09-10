@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @DusaniNaveen
+- 👋 Hi, I’m @DosaniNaveen
 - 👀 I’m interested in Full Stack Developer
-- 🌱 I’m currently learning Git
+- 🌱 I’m currently learning Nodejs ReactJs in GIT 
 - 💞️ I’m looking to collaborate on Projects
-- 📫 How to reach me By the Git
+- 📫 You can reach me by LINKEDIN  --> dosani naveen
+- 📫 if you are 4.0  learner ask DOUBTs in HTML,PYTHON ,CSS,SQL,NODE JS,JS  
 
 <!---
 DusaniNaveen/DusaniNaveen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
